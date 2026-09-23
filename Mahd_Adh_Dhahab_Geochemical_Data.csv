@@ -1,0 +1,5 @@
+Project,Country,Data_Source,Sample_ID,Au_ppm,Ag_ppm,Cu_ppm,Pb_ppm,Zn_ppm,Description
+"Mahd Adh Dhahab","Saudi Arabia","USGS Open-File Report 90-315, Table 2",172377,0.18,70,8000,1500,1900,"Quartz vein, locality 3"
+"Mahd Adh Dhahab","Saudi Arabia","USGS Open-File Report 90-315, Table 2",172349,0.06,9.2,30000,700,1200,"Quartz vein, locality 6"
+"Mahd Adh Dhahab","Saudi Arabia","USGS Open-File Report 90-315, Table 2",172352,0.05,1.6,4000,185,1250,"Quartz vein, locality 5"
+"Mahd Adh Dhahab","Saudi Arabia","USGS Open-File Report 90-315, Table 2",172381,0.08,0.7,35000,95,1200,"Quartz vein, locality 7"
